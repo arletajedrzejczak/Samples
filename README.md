@@ -20,7 +20,11 @@ Content is unavailable without login to service. There isn't way to create new a
 After login user can edit content on server.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![screensho1](./img/samples1.png)
+![screensho2](./img/samples2.png)
+![screensho3](./img/samples3.png)
+![screensho4](./img/samples4.png)
+![screensho5](./img/samples5.png)
 
 ## Technologies
 * VueJS - version 2.5.2
@@ -30,16 +34,12 @@ After login user can edit content on server.
 * Babel - version 6.22.1
 * Pug - version 1.0
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+## Status
+Project is in progress: I've done first step of our plan. The webpage works.
 
 ## To do:
 * Support display on mobile devices
 * Create demo version without necessary autorisation
-
-## Status
-Project is in progress: I've done first step of our plan. The webpage works.
 
 ## Contact
 Created by Arleta Jędrzejczak - feel free to contact me!

@@ -14,10 +14,10 @@
 Webpage: https://probki.pliki.gromar.eu/_app/
 
 ## General info
-This project is a tool for our account managers. It helps showing customers samples of our products.
-There is possibility to search samples by title and sort samples by title or using technologies.
+This project is a tool for our account managers. It helps them showing customers samples of our products.
+There is possibility to search samples by title and sort samples by title or used technologies.
 Content is unavailable without login to service. There isn't way to create new account.
-After login user can edit content on server.
+After login user can edit content on the server.
 
 ## Screenshots
 ![screensho1](./img/samples1.png)

@@ -1,17 +1,14 @@
-# Próbki
+# Próbki szkoleń
 > The webpage was made for showing samples of our e-learnings from FTP in nicer way.
+Webpage: https://probki.pliki.gromar.eu/_app/
 
 ## Table of contents
-* [Link](#link)
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Status](#status)
 * [To do](#to-do)
 * [Contact](#contact)
-
-## Link
-Webpage: https://probki.pliki.gromar.eu/_app/
 
 ## General info
 This project is a tool for our account managers. It helps them showing customers samples of our products.
